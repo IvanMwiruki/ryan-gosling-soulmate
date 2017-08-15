@@ -6,4 +6,12 @@
     android:layout_height="match_parent"
     tools:context="com.ivanmwiruki.ryangoslingsoulmate.MainActivity">
 
+    <ImageView
+        android:clickable="true"
+        android:id="@+id/mainBackgroundImageView"
+        android:layout_width="478dp"
+        android:layout_height="742dp"
+        app:srcCompat="@drawable/MainActivity"
+        tools:layout_editor_absoluteX="-8dp"
+        tools:layout_editor_absoluteY="-45dp" />
 </android.support.constraint.ConstraintLayout>
