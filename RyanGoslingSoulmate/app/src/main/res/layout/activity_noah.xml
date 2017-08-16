@@ -10,7 +10,7 @@
         android:id="@+id/noahImageView"
         android:layout_width="425dp"
         android:layout_height="598dp"
-        app:srcCompat="@drawable/NoahActivity"
+        app:srcCompat="@drawable/noah_activity"
         tools:layout_editor_absoluteX="-20dp"
         tools:layout_editor_absoluteY="-3dp" />
 

@@ -10,7 +10,7 @@
         android:id="@+id/pieceImageView"
         android:layout_width="445dp"
         android:layout_height="613dp"
-        app:srcCompat="@drawable/PickAPieceOfRyanActivity"
+        app:srcCompat="@drawable/pick_a_piece_of_ryan"
         tools:layout_editor_absoluteX="-30dp"
         tools:layout_editor_absoluteY="-10dp"
         tools:ignore="MissingConstraints" />

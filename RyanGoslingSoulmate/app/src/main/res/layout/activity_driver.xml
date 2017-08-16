@@ -10,7 +10,7 @@
         android:id="@+id/driverImageView"
         android:layout_width="428dp"
         android:layout_height="638dp"
-        app:srcCompat="@drawable/DriverActivity"
+        app:srcCompat="@drawable/driver_activity"
         tools:layout_editor_absoluteX="-22dp"
         tools:layout_editor_absoluteY="-23dp" />
 

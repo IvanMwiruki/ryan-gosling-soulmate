@@ -10,7 +10,7 @@
         android:id="@+id/MovieImageView"
         android:layout_width="443dp"
         android:layout_height="677dp"
-        app:srcCompat="@drawable/PickAMovieActivity"
+        app:srcCompat="@drawable/pick_a_movie_activity"
         tools:layout_editor_absoluteX="-16dp"
         tools:layout_editor_absoluteY="-28dp" />
 

@@ -10,7 +10,7 @@
         android:id="@+id/emojiImageView"
         android:layout_width="493dp"
         android:layout_height="596dp"
-        app:srcCompat="@drawable/PickAnEmojiActivity"
+        app:srcCompat="@drawable/pick_an_emoji_activity"
         tools:layout_editor_absoluteX="-54dp"
         tools:layout_editor_absoluteY="-2dp" />
 </android.support.constraint.ConstraintLayout>
