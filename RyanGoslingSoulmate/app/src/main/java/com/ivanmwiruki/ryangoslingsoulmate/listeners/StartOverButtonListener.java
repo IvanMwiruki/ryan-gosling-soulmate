@@ -6,13 +6,13 @@ import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Toast;
-
 import com.ivanmwiruki.ryangoslingsoulmate.MainActivity;
 
 public final class StartOverButtonListener extends AppCompatActivity
         implements OnClickListener {
 
-    private static final String TAG = "StartOverButtonListener";
+    private static final String TAG = StartOverButtonListener.class.getSimpleName();
+
     @Override
     public void onClick(View v) {
         Log.d(TAG, "clicked");

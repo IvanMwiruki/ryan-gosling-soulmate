@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         start = (Button) findViewById(R.id.start);
         start.setOnClickListener(v -> {
-            Intent i = new Intent(getApplicationContext(), PickAnEmojiActivity.class);
+            Intent i = new Intent(getApplicationContext(), MainActivity.class);
             finish();
             startActivity(i);
         });

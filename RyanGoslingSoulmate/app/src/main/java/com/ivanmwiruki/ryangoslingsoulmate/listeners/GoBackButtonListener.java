@@ -8,7 +8,7 @@ import android.view.View.OnClickListener;
 public final class GoBackButtonListener extends AppCompatActivity
         implements OnClickListener {
 
-    private static final String TAG = "GoBackButtonListener";
+    private static final String TAG = GoBackButtonListener.class.getSimpleName();
 
     @Override
     public void onClick(View v) {
