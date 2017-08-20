@@ -4,10 +4,10 @@
 
 Using our state of the art, patented, totally sophisticated © algorithm we'll tell you. 
 
-Authored by: Ivan Mwiruki
-
-Designed by: Laura Kline
-
+```
+authored by: Ivan Mwiruki
+designed by: Laura Kline
+```
 ## Usage
 <img src="media/ryansoulmate.gif" alt="ryan soulmate">
 
