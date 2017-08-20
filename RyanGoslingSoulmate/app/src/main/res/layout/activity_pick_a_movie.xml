@@ -67,7 +67,7 @@
         tools:layout_editor_absoluteX="291dp" />
 
     <Button
-        android:id="@+id/back"
+        android:id="@+id/backMovie"
         android:layout_width="118dp"
         android:layout_height="47dp"
         android:layout_marginBottom="8dp"

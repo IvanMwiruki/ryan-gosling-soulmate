@@ -67,7 +67,7 @@
         tools:layout_editor_absoluteX="256dp" />
 
     <Button
-        android:id="@+id/back"
+        android:id="@+id/backPiece"
         android:layout_width="112dp"
         android:layout_height="56dp"
         android:layout_marginBottom="8dp"

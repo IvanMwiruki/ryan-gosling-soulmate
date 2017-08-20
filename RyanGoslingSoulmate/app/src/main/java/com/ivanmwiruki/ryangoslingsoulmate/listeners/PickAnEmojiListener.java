@@ -39,10 +39,5 @@ public final class PickAnEmojiListener extends AppCompatActivity
                 startActivity(i);
                 break;
         }
-//        Log.d(TAG, "clicked");
-//
-//        Intent i = new Intent(getApplicationContext(), PickAPieceOfRyanActivity.class);
-//        finish();
-//        startActivity(i);
     }
 }
